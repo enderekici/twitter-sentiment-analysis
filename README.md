@@ -5,5 +5,5 @@ Translates and Detect Sentiment of tweets.
 
 Prerequisites:
 
-twitter api key
-aws api key
+-twitter api key
+-aws api key
